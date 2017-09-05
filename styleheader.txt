@@ -1,6 +1,5 @@
-<head>
-	<link rel="stylesheet" href="swiss.css">
-</head>
-
 <html>
+<head>
+	<link rel="stylesheet" href="swiss.css"/>
+</head>
 <body>

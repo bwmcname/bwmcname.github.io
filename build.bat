@@ -1,3 +1,4 @@
+@echo off
 
 perl ..\Markdown.pl home.md > temp.html
 type styleheader.txt > temp.txt

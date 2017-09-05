@@ -1,2 +1,2 @@
 theme: jekyll-theme-minimal
-exclude: [*md]
+exclude: [index.md]

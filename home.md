@@ -1,4 +1,5 @@
 
 # Brian McNamee
 
-![](ScreenShot-9-29-2017.png =250x)
+
+<img src="ScreenShot-9-29-2017.PNG" width="240" height = "320">

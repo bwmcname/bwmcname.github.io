@@ -1,9 +1,10 @@
 @echo off
 
-perl ..\Markdown.pl home.md > temp.html
-type styleheader.txt > temp.txt
-type temp.html >> temp.txt
-type temp.txt > index.html
-type stylefooter.txt >> index.html
-del temp.txt
-del temp.html
+
+rem perl ..\Markdown.pl home.md > temp.html
+rem type styleheader.txt > temp.txt
+rem type temp.html >> temp.txt
+rem type temp.txt > index.html
+rem type stylefooter.txt >> index.html
+rem del temp.txt
+rem del temp.html

@@ -17,6 +17,7 @@ hr {
     max-width: 25%;
     height: auto;
     width: auto;
+    object-fit: cover;
 }
 
 .projectSection {
@@ -46,6 +47,7 @@ hr {
     width: auto;
     margin-top: 5px;
     margin-bottom: 5px;
+    object-fit: cover;
 }
 
 .headerDescription {

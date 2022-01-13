@@ -8,20 +8,25 @@ body {
     min-width: 900px;
 }
 
-.column {
-    float: left;
-    width: 50%;
+hr {
+    margin-left: 0;
+    margin-right: 0;
 }
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-    margin-bottom: 8em;
+.projectImg {
+    max-width: 25%;
 }
 
-img {
-    max-width: 75%;
+.projectSection {
+    margin-left: 10%;
+}
+
+.projectHeader {
+    margin-bottom: 0px;
+}
+
+.projectDate {
+    margin-bottom: 5px;
 }
 
 .short {
@@ -31,4 +36,35 @@ img {
 .email {
     margin-top: 0;
     margin-bottom: 0;
+}
+
+.headerPicture {
+    max-width: 25%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.headerDescription {
+    margin-left: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: 4;
+}
+
+.horizontalPanel {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.verticalPanel {
+    display: inline-flex;
+    flex-flow: column wrap;
+}
+
+.imageDivider {
+    width: 2%;
 }

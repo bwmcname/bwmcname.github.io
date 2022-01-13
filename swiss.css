@@ -15,6 +15,7 @@ hr {
 
 .projectImg {
     max-width: 25%;
+    height: auto;
 }
 
 .projectSection {
@@ -40,6 +41,7 @@ hr {
 
 .headerPicture {
     max-width: 25%;
+    height: auto;
     margin-top: 5px;
     margin-bottom: 5px;
 }
